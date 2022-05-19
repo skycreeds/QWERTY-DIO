@@ -12,7 +12,7 @@ Timer can be modified in code
 
 main.txt will contain script that need to be typed
 
-gedit is text editor given in the code can be chaged to another 
+xed is text editor given in the code can be chaged to another 
 
 happy coding 😁😁😁😁
 
