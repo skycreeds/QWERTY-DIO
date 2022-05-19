@@ -8,7 +8,7 @@ Download it and extract in the folder .
 
 Code is not neat 😁😁😁😁😁
 
-Time can be modified in code
+Timer can be modified in code
 
 main.txt will contain script that need to be typed
 
